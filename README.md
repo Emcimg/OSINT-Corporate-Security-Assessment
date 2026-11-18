@@ -84,6 +84,12 @@ Key learning outcomes included:
 - Communicating findings through a structured report.
 - Collaborating on a shared security deliverable.
 
+## 📄 Project Documentation
+
+A sanitized executive report is available for portfolio purposes.
+
+[Download OSINT Portfolio Report](docs/OSINT_Portfolio_Edition_Eduardo_Martinez.pdf)
+
 ## Repository structure
 
 ```text
