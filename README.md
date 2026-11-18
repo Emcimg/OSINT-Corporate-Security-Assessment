@@ -88,7 +88,7 @@ Key learning outcomes included:
 
 A sanitized executive report is available for portfolio purposes.
 
-[Download OSINT Portfolio Report](docs/OSINT_Portfolio_Edition_Eduardo_Martinez.pdf)
+[Download OSINT Portfolio Report](docs/OSINT_Portfolio_Edition_Eduardo_Martinez_Modern.pdf)
 
 ## Repository structure
 
